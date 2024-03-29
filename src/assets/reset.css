@@ -1,0 +1,34 @@
+* {
+    background: 0;
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+body {
+    color: inherit;
+}
+
+a,
+a:visited,
+a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+button,
+input {
+    color: inherit;
+    font-family: inherit;
+}
+
+address {
+    font-style: normal;
+}
